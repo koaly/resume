@@ -32,8 +32,8 @@
     \textsc{Address:}   & 27/416 Romyen Villa, Khukot, Lumlukka, Pathum Thani, 12130, Thailand \\
     \textsc{Phone:}     & +66 97 1177555\\
     \textsc{Email:}     & \href{mailto:natthapong.s@ku.th}{natthapong.s@ku.th}\\
-    \textsc{GitHub:}	& \href{https://github.com/koaly}{github.com/koaly} \\
-    \textsc{Linkedin:}	& \href{https://linkedin.com/in/koaly-ns}{linkedin.com/in/koaly-ns}
+    \textsc{GitHub:}	& \url{https://github.com/koaly} \\
+    \textsc{Linkedin:}	& \url{https://linkedin.com/in/koaly-ns/}
 \end{tabular}
 
 \section{Education}
@@ -71,7 +71,7 @@
 
 \section{Achievements}
 
-\textbf{KU-EPT} \hfill 63/80 (78.75\%) \\
+\textbf{KU-EPT} \hfill 63/80 - 78.75\% \\
 Standardized English Test for Kasetsart University Students \hfill \textsc{Sep 2016} \\
 \multicolumn{2}{c}{} \\
 \textbf{ACM-ICPC} \hfill Participated \\
@@ -85,7 +85,6 @@ The Eleventh Thailand Olympiad in Informatics 2015 \hfill \textsc{Jun 2015} \\
 \begin{tabular}{rl}
 	\textsc{Data Science:} & Data Mining, Natural Language Processing, Machine Learning, Statistics \\
 	\textsc{Career Path:} & Data Scientist, Data Engineer, Backend Developer \\
-	\textsc{Music:} & BNK48 \\
 \end{tabular}
 
 \section{Selected Projects}

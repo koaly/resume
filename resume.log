@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.11.11)  13 NOV 2018 09:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.11.11)  14 NOV 2018 00:00
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -19,6 +19,20 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\enitkv@toks@=\toks14
+\labelindent=\skip43
+\enit@outerparindent=\dimen103
+\enit@toks=\toks15
+\enit@inbox=\box26
+\enitdp@description=\count88
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\changepage\changepage.sty"
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count89
+\cp@tempcnt=\count90
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2018/09/30 v6.88a Hypertext links for LaTeX
@@ -69,7 +83,7 @@ Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
+\KV@toks@=\toks16
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
@@ -80,16 +94,16 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen103
-\Hy@linkcounter=\count88
-\Hy@pagecounter=\count89
+\@linkdim=\dimen104
+\Hy@linkcounter=\count91
+\Hy@pagecounter=\count92
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2018/09/30 v6.88a Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count90
+\Hy@SavedSpaceFactor=\count93
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -101,17 +115,17 @@ Package hyperref Info: Plain pages OFF on input line 4550.
 Package hyperref Info: Backreferencing OFF on input line 4555.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4788.
-\c@Hy@tempcnt=\count91
+\c@Hy@tempcnt=\count94
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5141.
-\XeTeXLinkMargin=\dimen104
-\Fld@menulength=\count92
-\Field@Width=\dimen105
-\Fld@charsize=\dimen106
+\XeTeXLinkMargin=\dimen105
+\Fld@menulength=\count95
+\Field@Width=\dimen106
+\Fld@charsize=\dimen107
 Package hyperref Info: Hyper figures OFF on input line 6396.
 Package hyperref Info: Link nesting OFF on input line 6401.
 Package hyperref Info: Hyper index ON on input line 6404.
@@ -121,57 +135,57 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6421.
 Package hyperref Info: PDF/A mode OFF on input line 6426.
 LaTeX Info: Redefining \ref on input line 6466.
 LaTeX Info: Redefining \pageref on input line 6470.
-\Hy@abspage=\count93
-\c@Item=\count94
-\c@Hfootnote=\count95
+\Hy@abspage=\count96
+\c@Item=\count97
+\c@Hfootnote=\count98
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2018/09/30 v6.88a Hyperref driver for pdfTeX
-\Fld@listcount=\count96
-\c@bookmark@seq@number=\count97
+\Fld@listcount=\count99
+\c@bookmark@seq@number=\count100
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip43
+\Hy@SectionHShift=\skip44
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box26
-\beforetitleunit=\skip44
-\aftertitleunit=\skip45
-\ttl@plus=\dimen107
-\ttl@minus=\dimen108
-\ttl@toksa=\toks15
-\titlewidth=\dimen109
-\titlewidthlast=\dimen110
-\titlewidthfirst=\dimen111
+\ttl@box=\box27
+\beforetitleunit=\skip45
+\aftertitleunit=\skip46
+\ttl@plus=\dimen108
+\ttl@minus=\dimen109
+\ttl@toksa=\toks17
+\titlewidth=\dimen110
+\titlewidthlast=\dimen111
+\titlewidthfirst=\dimen112
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2018/04/16 v5.8 Page Geometry
-\Gm@cnth=\count98
-\Gm@cntv=\count99
-\c@Gm@tempcnt=\count100
-\Gm@bindingoffset=\dimen112
-\Gm@wd@mp=\dimen113
-\Gm@odd@mp=\dimen114
-\Gm@even@mp=\dimen115
-\Gm@layoutwidth=\dimen116
-\Gm@layoutheight=\dimen117
-\Gm@layouthoffset=\dimen118
-\Gm@layoutvoffset=\dimen119
-\Gm@dimlist=\toks16
+\Gm@cnth=\count101
+\Gm@cntv=\count102
+\c@Gm@tempcnt=\count103
+\Gm@bindingoffset=\dimen113
+\Gm@wd@mp=\dimen114
+\Gm@odd@mp=\dimen115
+\Gm@even@mp=\dimen116
+\Gm@layoutwidth=\dimen117
+\Gm@layoutheight=\dimen118
+\Gm@layouthoffset=\dimen119
+\Gm@layoutvoffset=\dimen120
+\Gm@dimlist=\toks18
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
 Runaway argument?
 ! Paragraph ended before \ttl@spacing@i was complete.
 <to be read again> 
                    \par 
-l.10 
+l.12 
      
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
@@ -180,32 +194,32 @@ My plan is to forget the whole thing and hope for the best.
 (resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-\AtBeginShipoutBox=\box27
-Package hyperref Info: Link coloring OFF on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+\AtBeginShipoutBox=\box28
+Package hyperref Info: Link coloring OFF on input line 16.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count101
+\c@section@level=\count104
 )
-LaTeX Info: Redefining \ref on input line 13.
-LaTeX Info: Redefining \pageref on input line 13.
-LaTeX Info: Redefining \nameref on input line 13.
+LaTeX Info: Redefining \ref on input line 16.
+LaTeX Info: Redefining \pageref on input line 16.
+LaTeX Info: Redefining \nameref on input line 16.
  (resume.out) (resume.out)
 \@outlinefile=\write3
 \openout3 = `resume.out'.
@@ -246,9 +260,9 @@ LaTeX Info: Redefining \nameref on input line 13.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 26.
+(Font)              <7> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 26.
+(Font)              <5> on input line 30.
 
 ! Package inputenc Error: Unicode character ู (U+E39)
 (inputenc)                not set up for use with LaTeX.
@@ -257,23 +271,27 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.38 	\textit{Current} ู
-                          & \textbf{Kasetsart University} \hfill Bangkok, Th...
+l.42 	\textit{Current} ู
+                          & \textbf{Kasetsart University} (KU) \hfill Bangko...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 52.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 56.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 52.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 56.
+
+Overfull \hbox (1.07121pt too wide) in paragraph at lines 67--71
+[] 
+ []
 
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.72 \multicolumn{2}{c}{}
+l.76 \multicolumn{2}{c}{}
                           \\
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -281,7 +299,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Misplaced \span.
 \sp@n ->\span 
               \omit \advance \@multicnt \m@ne 
-l.72 \multicolumn{2}{c}{}
+l.76 \multicolumn{2}{c}{}
                           \\
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -292,7 +310,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \sp@n ->\span \omit 
                     \advance \@multicnt \m@ne 
-l.72 \multicolumn{2}{c}{}
+l.76 \multicolumn{2}{c}{}
                           \\
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -300,7 +318,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.72 \multicolumn{2}{c}{}
+l.76 \multicolumn{2}{c}{}
                           \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -311,7 +329,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@mkpream ...hclass }\ifcase \@lastchclass \@acol 
                                                   \or \or \@preamerr \@ne \o...
-l.72 \multicolumn{2}{c}{}
+l.76 \multicolumn{2}{c}{}
                           \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -322,7 +340,7 @@ and I'll forget about whatever was undefined.
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
-l.75 \multicolumn{2}{c}{}
+l.79 \multicolumn{2}{c}{}
                           \\
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -330,7 +348,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Misplaced \span.
 \sp@n ->\span 
               \omit \advance \@multicnt \m@ne 
-l.75 \multicolumn{2}{c}{}
+l.79 \multicolumn{2}{c}{}
                           \\
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -341,7 +359,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \omit.
 \sp@n ->\span \omit 
                     \advance \@multicnt \m@ne 
-l.75 \multicolumn{2}{c}{}
+l.79 \multicolumn{2}{c}{}
                           \\
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -349,7 +367,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <argument> ...nextchar \ifcase \@chclass \@classz 
                                                   \or \@classi \or \@classii...
-l.75 \multicolumn{2}{c}{}
+l.79 \multicolumn{2}{c}{}
                           \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -360,7 +378,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \@mkpream ...hclass }\ifcase \@lastchclass \@acol 
                                                   \or \or \@preamerr \@ne \o...
-l.75 \multicolumn{2}{c}{}
+l.79 \multicolumn{2}{c}{}
                           \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -369,42 +387,48 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--78
+Underfull \hbox (badness 10000) in paragraph at lines 74--82
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 81.
 [1
 
-{C:/Users/Ika/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
+{C:/Users/Ika/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
 
-(resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 81.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 81.
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 129.
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 129.
+ (resume.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 129.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 129.
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 5FEF542A4BEC281E674B9AC2B72D3BAD;288.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 81.
+(rerunfilecheck)             Checksum: 83DB1B4C82579E7865CD72F75EE3F051;333.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 129.
  ) 
 Here is how much of TeX's memory you used:
- 4944 strings out of 492966
- 73722 string characters out of 3133071
- 171636 words of memory out of 3000000
- 8822 multiletter control sequences out of 15000+200000
- 6153 words of font info for 22 fonts, out of 3000000 for 9000
+ 5259 strings out of 492966
+ 79020 string characters out of 3133071
+ 179501 words of memory out of 3000000
+ 9127 multiletter control sequences out of 15000+200000
+ 6321 words of font info for 23 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,8n,33p,265b,317s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 28i,12n,33p,343b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pr
 ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program
- Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on resume.pdf (2 pages, 116122 bytes).
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on resume.pdf (2 pages, 154328 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 96 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
+ 57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
